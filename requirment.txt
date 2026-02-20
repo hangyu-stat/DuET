@@ -1,0 +1,6 @@
+notebook
+torchinfo
+PyWavelets
+scikit-learn
+seaborn
+tqdm
